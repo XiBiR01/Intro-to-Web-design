@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+    width: 20%;
+    margin: 0 auto 0 auto;
+    position: relative;
+    bottom: 15px;
+}
+
+p{
+    font-family: cursive;
+    margin: 0;
+    position: relative;
+    bottom: 20px;
+   
+}
+
+.bottom-cloud{
+    position: absolute;  
+    left: 300px;
+    bottom: 300px;
+
+} 
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  
+}
+.mountain{
+    width: 50%;
+}
+.giphy-embed{
+    width: 40%;
+    height: 300px;
+}
+.top-container{
+    background-color: rgb(196, 255, 247); 
+    padding-top: 100px;
+    position: relative;
+    
+   
+}
+
+.contact-me{
+    background-color: #1363DF;
+    
+}
+.getintouch{
+    margin-top: 0;
+}
+.bottom-container{
+    background-color:#06283D;
+   
+   
+}
+.name{
+    top: 20px;
+    background-color:#06283D ;
+}
+hr{
+    margin: 0;
+}
+.skill-row{
+    background-color: #B8FFF9;
+}
+.skills{
+    background-color: #B8FFF9;
+}
+h2{
+    margin-top: 0;
+    padding-top: 20px;
+}
+.profile{
+    background-color: #FBF8F1;
+}
+.footer-link{
+   
+    text-decoration: none;
+    color:#FBF8F1 ;
+}
+.btn{
+    text-decoration: none;
+    color:#FBF8F1 ;
+}
